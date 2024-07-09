@@ -1,4 +1,4 @@
-# Hello, I'm PIERCE CHIN
+# Hello, I'm Pierce Chin
 <a href="https://linkedin.com/in/piercechin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity Analyst with a degree in Computer Science and an Enterprise Administration certification. I am currently enrolled in a Cybersecurity bootcamp working towards earning the CompTIA CySA+ and Splunk Core Certified User certifications.
